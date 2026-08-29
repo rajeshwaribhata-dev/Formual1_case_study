@@ -32,6 +32,11 @@ Using the given F1 dataset, solve the following problems:
 4. List the number of races that have taken place **each year**.
 5. Who is the **youngest** and **oldest** F1 driver?
 6. List the number of races held each year and mention the **first** and **last** race of each season.
+
+ER Diagram
+
+<img width="1800" height="1408" alt="ERD" src="https://github.com/user-attachments/assets/d7f5aed1-0dc7-4e2d-9c3e-8f050948a302" />
+
 7. Which circuit has hosted the **most number of races**? Display:
 
    - Circuit name
